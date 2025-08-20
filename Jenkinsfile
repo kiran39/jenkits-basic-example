@@ -6,9 +6,9 @@ pipeline {
             steps {
                 echo 'Sample test file for Jenkins pipeline'
             }
-        stage('Build') {
-            steps {
-                echo 'Building...'
+        stage('build') {
+            steps{
+                echo 'Building the project...'
             }
         }
     }
