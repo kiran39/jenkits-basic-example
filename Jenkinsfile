@@ -9,4 +9,4 @@ pipeline {
         }
     }
 }
-// This Jenkinsfile is a simple example to demonstrate a basic pipeline structure.
+//this Jenkinsfile is a simple example to demonstrate a basic pipeline structure.
